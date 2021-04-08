@@ -1,4 +1,4 @@
-# Rick and Morty APY
+# Rick and Morty API
 
 SPA (single page app) made with JavaScript Vanilla and using the Rick and Morty API to display the characters and their information
 
